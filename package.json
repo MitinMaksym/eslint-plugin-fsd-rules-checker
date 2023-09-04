@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-fsd-methodology-rules-checker",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Helps to follow FSD methodology rules",
   "keywords": [
     "eslint",
